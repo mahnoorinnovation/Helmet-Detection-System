@@ -1,4 +1,4 @@
-# Motorcycle Helmet Detection System
+﻿# Motorcycle Helmet Detection System
 
 An object detection project built using **YOLOv8** to identify motorcycle riders wearing helmets and riders without helmets.
 
@@ -46,7 +46,7 @@ The final dataset was organized in YOLO format with separate image and label fol
 
 **Dataset location:** Google Drive `cv_project/dataset/final_dataset/`
 
-Dataset sharing link: Add your accessible Google Drive link here.
+Dataset sharing link: https://drive.google.com/drive/folders/1yM0jitIcDFwQWzE2YtqId9rl5saEcXSJ
 
 ## 4. Model Training
 
@@ -115,27 +115,27 @@ The report documents the selected review records and their limitations.
 
 ```text
 Helmet-Detection-System/
-│
-├── notebooks/
-│   └── training_notebook.ipynb
-│
-├── models/
-│   └── best.pt
-│
-├── outputs/
-│   ├── predictions/
-│   └── error_analysis/
-│
-├── report/
-│   └── final_report.pdf
-│
-├── dataset/
-│   ├── images/
-│   ├── labels/
-│   └── data.yaml
-│
-├── requirements.txt
-└── README.md
+â”‚
+â”œâ”€â”€ notebooks/
+â”‚   â””â”€â”€ training_notebook.ipynb
+â”‚
+â”œâ”€â”€ models/
+â”‚   â””â”€â”€ best.pt
+â”‚
+â”œâ”€â”€ outputs/
+â”‚   â”œâ”€â”€ predictions/
+â”‚   â””â”€â”€ error_analysis/
+â”‚
+â”œâ”€â”€ report/
+â”‚   â””â”€â”€ final_report.pdf
+â”‚
+â”œâ”€â”€ dataset/
+â”‚   â”œâ”€â”€ images/
+â”‚   â”œâ”€â”€ labels/
+â”‚   â””â”€â”€ data.yaml
+â”‚
+â”œâ”€â”€ requirements.txt
+â””â”€â”€ README.md
 ```
 
 The dataset folder is excluded from Git tracking. Use the shared Google Drive dataset link for access.
@@ -172,3 +172,4 @@ The complete project report is available at:
 ## 12. Repository
 
 GitHub: https://github.com/mahnoorinnovation/Helmet-Detection-System
+
