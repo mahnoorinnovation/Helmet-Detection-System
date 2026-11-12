@@ -1,0 +1,4 @@
+Improvement,Explanation
+Increase and balance training data,Add more diverse and balanced helmet and no-helmet images to improve class learning.
+Improve annotation quality,Review bounding boxes and class labels to reduce false positives and wrong-class predictions.
+Tune training and inference settings,"Experiment with training duration, image size and confidence threshold using validation data."

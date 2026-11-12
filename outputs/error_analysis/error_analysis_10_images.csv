@@ -1,0 +1,65 @@
+Image,Actual,Prediction,Confidence,IoU,Error Type
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,With Helmet,With Helmet,0.345,0.76,Correct detection
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Without Helmet,0.427,0.732,Correct detection
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,With Helmet,With Helmet,0.258,0.729,Correct detection
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Without Helmet,0.483,0.7,Correct detection
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,With Helmet,With Helmet,0.615,0.68,Correct detection
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,With Helmet,0.478,0.673,Wrong class
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,With Helmet,0.456,0.668,Wrong class
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,With Helmet,With Helmet,0.494,0.573,Correct detection
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,0.587,-,False Positive
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,0.54,-,False Positive
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,0.53,-,False Positive
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,0.444,-,False Positive
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,Without Helmet,Without Helmet,0.464,0.771,Correct detection
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,Without Helmet,Without Helmet,0.443,0.698,Correct detection
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,With Helmet,With Helmet,0.551,0.688,Correct detection
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,Without Helmet,Without Helmet,0.256,0.674,Correct detection
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,Without Helmet,Without Helmet,0.307,0.67,Correct detection
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,Without Helmet,Without Helmet,0.429,0.621,Correct detection
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,Without Helmet,Without Helmet,0.274,0.596,Correct detection
+manual__BikesHelmets118_png_jpg.rf.276fb4c4dc04d2bb205f3790db6968ff.jpg,Without Helmet,Without Helmet,0.363,0.537,Correct detection
+manual__BikesHelmets128_png_jpg.rf.689974532482e03a0a3b4362a02c8d3b.jpg,Without Helmet,Without Helmet,0.336,0.761,Correct detection
+manual__BikesHelmets128_png_jpg.rf.689974532482e03a0a3b4362a02c8d3b.jpg,Without Helmet,Without Helmet,0.331,0.759,Correct detection
+manual__BikesHelmets128_png_jpg.rf.689974532482e03a0a3b4362a02c8d3b.jpg,Without Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets147_png_jpg.rf.325efbcc48fe92642606c8249b03f457.jpg,Without Helmet,Without Helmet,0.686,0.887,Correct detection
+manual__BikesHelmets147_png_jpg.rf.325efbcc48fe92642606c8249b03f457.jpg,With Helmet,With Helmet,0.325,0.719,Correct detection
+manual__BikesHelmets147_png_jpg.rf.325efbcc48fe92642606c8249b03f457.jpg,No matched object,With Helmet,0.417,-,False Positive
+manual__BikesHelmets147_png_jpg.rf.325efbcc48fe92642606c8249b03f457.jpg,No matched object,With Helmet,0.381,-,False Positive
+manual__BikesHelmets147_png_jpg.rf.325efbcc48fe92642606c8249b03f457.jpg,With Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,With Helmet,Without Helmet,0.357,0.949,Wrong class
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,Without Helmet,Without Helmet,0.573,0.865,Correct detection
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,Without Helmet,With Helmet,0.498,0.787,Wrong class
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,Without Helmet,Without Helmet,0.749,0.776,Correct detection
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,With Helmet,With Helmet,0.79,0.736,Correct detection
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,With Helmet,With Helmet,0.769,0.669,Correct detection
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,With Helmet,With Helmet,0.596,0.63,Correct detection
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,Without Helmet,With Helmet,0.264,0.52,Wrong class
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,No matched object,Without Helmet,0.311,-,False Positive
+manual__BikesHelmets237_png_jpg.rf.08fb7fd22dc6ebc33e1d52fe2975232c.jpg,With Helmet,With Helmet,0.391,0.68,Correct detection
+manual__BikesHelmets237_png_jpg.rf.08fb7fd22dc6ebc33e1d52fe2975232c.jpg,With Helmet,Without Helmet,0.364,0.511,Wrong class
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,Without Helmet,Without Helmet,0.808,0.785,Correct detection
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,With Helmet,With Helmet,0.784,0.741,Correct detection
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,Without Helmet,Without Helmet,0.794,0.727,Correct detection
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,With Helmet,With Helmet,0.673,0.693,Correct detection
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,Without Helmet,Without Helmet,0.61,0.654,Correct detection
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,Without Helmet,Without Helmet,0.743,0.622,Correct detection
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,Without Helmet,With Helmet,0.315,0.533,Wrong class
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,No matched object,Without Helmet,0.592,-,False Positive
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,No matched object,With Helmet,0.488,-,False Positive
+manual__BikesHelmets241_png_jpg.rf.fb3d09910d6fd3c901431a2b26da3cd4.jpg,No matched object,Without Helmet,0.329,-,False Positive
+manual__BikesHelmets385_png_jpg.rf.2f8cd4db9a1de09e3b0876d07ddcce24.jpg,No matched object,Without Helmet,0.311,-,False Positive
+manual__BikesHelmets385_png_jpg.rf.2f8cd4db9a1de09e3b0876d07ddcce24.jpg,With Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets385_png_jpg.rf.2f8cd4db9a1de09e3b0876d07ddcce24.jpg,With Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets385_png_jpg.rf.2f8cd4db9a1de09e3b0876d07ddcce24.jpg,With Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets385_png_jpg.rf.2f8cd4db9a1de09e3b0876d07ddcce24.jpg,With Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets480_png_jpg.rf.583ec56601c07f1a78439def8969e72e.jpg,Without Helmet,Not detected,-,-,False Negative
+manual__BikesHelmets598_png_jpg.rf.d8e39a92a43ef5ae90eef78f501f1031.jpg,With Helmet,With Helmet,0.582,0.845,Correct detection
+manual__BikesHelmets598_png_jpg.rf.d8e39a92a43ef5ae90eef78f501f1031.jpg,With Helmet,With Helmet,0.353,0.698,Correct detection
+manual__BikesHelmets598_png_jpg.rf.d8e39a92a43ef5ae90eef78f501f1031.jpg,No matched object,Without Helmet,0.387,-,False Positive
+manual__BikesHelmets598_png_jpg.rf.d8e39a92a43ef5ae90eef78f501f1031.jpg,With Helmet,Not detected,-,-,False Negative

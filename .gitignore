@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+Bike Helmet Detection Backup/
+Bike Helmet Detection.v1i.yolov8/
+annotation_work/
+dataset/
+yolov8n.pt
+
