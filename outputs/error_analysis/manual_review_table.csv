@@ -1,11 +1,11 @@
-Image,Actual,Prediction,Error Type,Possible Reason,Review Status
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,With Helmet,Wrong class,Model assigned an incorrect helmet-status class.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,With Helmet,Wrong class,Model assigned an incorrect helmet-status class.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,False Positive,Model detected an object where no matching ground-truth object exists.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,False Positive,Model detected an object where no matching ground-truth object exists.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,False Positive,Model detected an object where no matching ground-truth object exists.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,False Positive,Model detected an object where no matching ground-truth object exists.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,False Negative,Model failed to detect an annotated object.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,False Negative,Model failed to detect an annotated object.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,False Negative,Model failed to detect an annotated object.,Visually reviewed
-manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,Not detected,False Negative,Model failed to detect an annotated object.,Visually reviewed
+Image,Actual,Prediction,Confidence,IoU,Error Type,Review Status,Review Note
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,With Helmet,0.478,0.673,Wrong class,Selected for review,Helmet status was classified incorrectly.
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,Without Helmet,With Helmet,0.456,0.668,Wrong class,Selected for review,Helmet status was classified incorrectly.
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,0.587,-,False Positive,Selected for review,A detection appeared on a background or non-target region.
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,0.54,-,False Positive,Selected for review,A detection appeared on a background or non-target region.
+manual__BikesHelmets115_png_jpg.rf.e2d44812a061abe2376fea5b3f9dcdc6.jpg,No matched object,With Helmet,0.53,-,False Positive,Selected for review,A detection appeared on a background or non-target region.
+manual__BikesHelmets128_png_jpg.rf.689974532482e03a0a3b4362a02c8d3b.jpg,Without Helmet,Not detected,-,-,False Negative,Selected for review,A labelled object was not detected.
+manual__BikesHelmets147_png_jpg.rf.325efbcc48fe92642606c8249b03f457.jpg,No matched object,With Helmet,0.417,-,False Positive,Selected for review,A detection appeared on a background or non-target region.
+manual__BikesHelmets147_png_jpg.rf.325efbcc48fe92642606c8249b03f457.jpg,No matched object,With Helmet,0.381,-,False Positive,Selected for review,A detection appeared on a background or non-target region.
+manual__BikesHelmets215_png_jpg.rf.fce9fad0356efb7cb7b4453d8a231bcb.jpg,With Helmet,Without Helmet,0.357,0.949,Wrong class,Selected for review,Helmet status was classified incorrectly.
+manual__BikesHelmets237_png_jpg.rf.08fb7fd22dc6ebc33e1d52fe2975232c.jpg,With Helmet,Without Helmet,0.364,0.511,Wrong class,Selected for review,Helmet status was classified incorrectly.
